@@ -263,37 +263,37 @@ Eso es TODO lo que necesitas para colaborar en GitHub.
 ## ✅ Checkpoints de Aprendizaje: GitHub y Control de Versiones Remoto
 
 ### Checkpoint 1: Git vs GitHub
-- [x] Entiendo que Git es local y GitHub es la nube
-- [x] Puedo explicar por qué GitHub es necesario para equipos
-- [x] Sé que GitHub almacena y sincroniza código
+- [ ] Entiendo que Git es local y GitHub es la nube
+- [ ] Puedo explicar por qué GitHub es necesario para equipos
+- [ ] Sé que GitHub almacena y sincroniza código
 
 ### Checkpoint 2: El Comando Clone
-- [x] Entiendo qué es clonar un repositorio
-- [x] Sé que clone descarga el código COMPLETO con historial
-- [x] Puedo usar: `git clone https://github.com/usuario/proyecto.git`
+- [ ] Entiendo qué es clonar un repositorio
+- [ ] Sé que clone descarga el código COMPLETO con historial
+- [ ] Puedo usar: `git clone https://github.com/usuario/proyecto.git`
 
 ### Checkpoint 3: Push y Pull
-- [x] Sé que `git push` sube cambios a GitHub
-- [x] Sé que `git pull` descarga cambios de GitHub
-- [x] Entiendo que debo `pull` antes de trabajar y `push` después
+- [ ] Sé que `git push` sube cambios a GitHub
+- [ ] Sé que `git pull` descarga cambios de GitHub
+- [ ] Entiendo que debo `pull` antes de trabajar y `push` después
 
 ### Checkpoint 4: Protocolo de Equipo
-- [x] Puedo seguir: `pull` → `work` → `push`
-- [x] Entiendo por qué este orden evita conflictos
-- [x] Sé que este flujo permite que 4 estudiantes trabajen en paralelo
+- [ ] Puedo seguir: `pull` → `work` → `push`
+- [ ] Entiendo por qué este orden evita conflictos
+- [ ] Sé que este flujo permite que 4 estudiantes trabajen en paralelo
 
 ### Checkpoint 5: Conflictos y Seguridad
-- [x] Sé qué es un conflicto (editar la misma línea)
-- [x] Entiendo que se evita fácilmente (editar archivos diferentes)
-- [x] Sé que puedo elegir repositorio público o privado
+- [ ] Sé qué es un conflicto (editar la misma línea)
+- [ ] Entiendo que se evita fácilmente (editar archivos diferentes)
+- [ ] Sé que puedo elegir repositorio público o privado
 
 ## ✅ Checkpoint 6: GitHub Dominio Completo ✅
 
-- [x] Puedo explicar los 3 conceptos clave de GitHub
-- [x] Sé los 3 comandos nuevos de GitHub
-- [x] Entiendo el flujo de colaboración
-- [x] Sé cómo evitar conflictos
-- [x] Estoy listo para mi entregable
+- [ ] Puedo explicar los 3 conceptos clave de GitHub
+- [ ] Sé los 3 comandos nuevos de GitHub
+- [ ] Entiendo el flujo de colaboración
+- [ ] Sé cómo evitar conflictos
+- [ ] Estoy listo para mi entregable
 
 ---
 
